@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Bonjour, Driven by a curiosity for technology and a passion for building software that makes a difference, I am eager to bring my talents as a Full Stack Developer to your team and collaborate with creative thinker professionals on exciting projects. Myself Aman Dewett, a seasoned Software Developer with over 5 years of hands-on experience in NextJS, React, React Native, NodeJS, NestJS and Flutter development.
+I’m a Full Stack Developer with over 5 years of experience building web and mobile applications that are fast, scalable, and user-friendly. I specialize in ReactJS, Angular, NextJS, NodeJS, and TypeScript, and I enjoy solving real-world problems through technology. I love working closely with teams and stakeholders to build products that not only work well but also drive business success.
 
 ## 🌐 Socials:
 
@@ -17,8 +17,9 @@ Bonjour, Driven by a curiosity for technology and a passion for building softwar
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=amandewett&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=amandewett&theme=dark&hide_border=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=amandewett&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=amandewett&theme=dark&hide_border=false)<br/> -->
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amandewett&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
