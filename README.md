@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I’m a Full Stack Developer with over 5 years of experience creating fast, scalable, and user-friendly web and mobile applications. Specializing in ReactJS, Angular, NextJS, NodeJS, and TypeScript, I enjoy solving real-world problems through technology. My collaborative approach has consistently delivered projects that enhance user experience and significantly drive business results.
+I’m a Full Stack Developer with over 6 years of experience creating fast, scalable, and user-friendly web and mobile applications. Specializing in ReactJS, Angular, NextJS, NodeJS, and TypeScript, I enjoy solving real-world problems through technology. My collaborative approach has consistently delivered projects that enhance user experience and significantly drive business results.
 
 ## 🌐 Socials:
 
